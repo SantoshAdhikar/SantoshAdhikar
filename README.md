@@ -24,12 +24,15 @@ I’m a backend-focused Software Engineer and Computer Science graduate from Cal
 | [smartclip-ocr](https://github.com/SantoshAdhikar/smartclip-ocr) | Windows OCR utility that captures screen content and extracts text from images, videos, and PDFs. | Python, OCR |
 
 ## GoldenBrows Project Status
-
 GoldenBrows is fully functional in local development and prepared for deployment. Public hosting is not currently active, but recruiters can review the complete source code and project documentation in the repository.
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=santoshadhikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=santoshadhikar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=santoshadhikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.shion.dev/api?username=SantoshAdhikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_rank=true)<br/>
+
+![](https://streak-stats.demolab.com/?user=SantoshAdhikar&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SantoshAdhikar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=santoshadhikar&icon=0&color=0)](https://visitcount.itsvg.in)
